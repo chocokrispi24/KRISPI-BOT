@@ -1,1 +1,1 @@
-# chocokrispi
+# KRISPI-BOT
